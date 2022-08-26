@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Truong Thanh Thien
-- 👀 I’m interested in Data Analysis.
+- 👀 I’m interested in Data Engineer.
 - 🌱 I’m currently learning Information Technology at University of Information Technology VNU-HCMC.
 - 📫 Contact me by email:  thientt1006@gmail.com
 
